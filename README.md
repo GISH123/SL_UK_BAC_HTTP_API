@@ -1,0 +1,2 @@
+# SL_UK_BAC_HTTP_API
+BAC但模型的部分使用的是API呼叫外部模型服務
